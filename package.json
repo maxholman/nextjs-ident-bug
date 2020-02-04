@@ -1,0 +1,17 @@
+{
+  "name": "nextjs-ident-bug",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "pages/index.jsx",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "9.2.2-canary.10",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  }
+}
